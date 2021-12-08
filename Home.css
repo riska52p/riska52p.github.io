@@ -37,9 +37,9 @@
 .u-section-1 .u-social-icons-1 {
   height: 87px;
   min-height: 16px;
-  width: 474px;
-  min-width: 120px;
-  margin: -142px 102px 60px auto;
+  width: 281px;
+  min-width: 68px;
+  margin: -125px 200px 60px auto;
 }
 
 .u-section-1 .u-icon-1 {
@@ -55,16 +55,6 @@
 .u-section-1 .u-icon-3 {
   height: 100%;
   color: rgb(0, 137, 203) !important;
-}
-
-.u-section-1 .u-icon-4 {
-  color: rgb(59, 89, 152) !important;
-  height: 100%;
-}
-
-.u-section-1 .u-icon-5 {
-  color: rgb(197, 54, 164) !important;
-  height: 100%;
 }
 
 @media (max-width: 1199px) {
@@ -151,11 +141,6 @@
   .u-section-1 .u-image-1 {
     width: 340px;
     height: 340px;
-  }
-
-  .u-section-1 .u-social-icons-1 {
-    height: 60px;
-    width: 340px;
   }
 } .u-section-2 {
   background-image: none;
